@@ -37,4 +37,5 @@ p, ul, ol{
 /****Layout****/
 .container {
     background-color: red;
+    width: min(95%,75rem);
 }
