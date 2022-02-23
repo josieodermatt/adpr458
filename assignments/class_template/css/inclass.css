@@ -46,3 +46,13 @@ p, ul, ol{
 .container > * {
     grid-column: span 12;
 }
+
+/*Desktop Layout*/
+header {
+    grid-column: 1 / span 6;
+    background-color: #033f5f
+}
+nav {
+    grid-column: 7/ span 6;
+    background-color: green;
+}
