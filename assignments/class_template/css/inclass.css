@@ -38,4 +38,5 @@ p, ul, ol{
 .container {
     background-color: red;
     width: min(95%,75rem);
+    margin: 0 auto;
 }
