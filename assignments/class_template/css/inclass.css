@@ -56,3 +56,11 @@ p, ul, ol{
     grid-column: 7/ span 6;
     background-color: green;
 }
+.company {
+    grid-column: 1 / span 8;
+    background-color: red;
+}
+.company-image {
+    grid-column: 9 / span 4;
+    background-color: yellow;
+}
