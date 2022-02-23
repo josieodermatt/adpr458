@@ -33,6 +33,9 @@ p, ul, ol{
     line-height: 1.75;
     color: var(--neutral-grey);
 }
+img{
+    max-width: 100%;
+}
 
 /****Layout****/
 .container {
@@ -48,19 +51,21 @@ p, ul, ol{
 }
 
 /*Desktop Layout*/
+@media screen and (min-width: 40rem){
 .site-id {
     grid-column: 1 / span 6;
     background-color: #033f5f
-}
-.menu {
-    grid-column: 7/ span 6;
-    background-color: green;
-}
-.company {
-    grid-column: 1 / span 8;
-    background-color: purple;
-}
-.company-image {
-    grid-column: 9 / span 4;
-    background-color: yellow;
+    }
+    .menu {
+        grid-column: 7/ span 6;
+        background-color: green;
+    }
+    .company {
+        grid-column: 1 / span 8;
+        background-color: purple;
+    }
+    .company-image {
+        grid-column: 9 / span 4;
+        background-color: yellow;
+    }
 }
