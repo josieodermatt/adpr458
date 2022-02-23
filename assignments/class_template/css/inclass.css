@@ -58,7 +58,7 @@ p, ul, ol{
 }
 .company {
     grid-column: 1 / span 8;
-    background-color: red;
+    background-color: purple;
 }
 .company-image {
     grid-column: 9 / span 4;
