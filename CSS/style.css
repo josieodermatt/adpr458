@@ -1,11 +1,12 @@
-body{
-    margin: 0 10%;
+*{
+    box-sizing:border-box;
     font-family: sans-serif;
+}
+body{
+    margin: 0px 10%;
     background-image: url("../Images/bg.png");
 }
-.containter {
-    background-color: white;
-}
+
 header{
     background-color: #9abcf8;
     color: white;
@@ -25,5 +26,12 @@ h2 {
 .circle{
     border-radius: 50%;
     border:5px solid #9abcf8;
+}
 
+/******Layout******/
+.containter {
+    background-color: white;
+    display:grid;
+    gap: 1.5rem;
+    grid-template-columns: repeat(12, 1fr);
 }
