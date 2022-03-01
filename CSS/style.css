@@ -3,7 +3,7 @@
     font-family: sans-serif;
 }
 body{
-    margin: 0px 10%;
+    margin: 0;
     background-image: url("../Images/bg.png");
 }
 
@@ -34,6 +34,8 @@ h2 {
     display:grid;
     gap: 1.5rem;
     grid-template-columns: repeat(12, 1fr);
+    margin: 0 auto;
+    width: min(95%, 75rem);
 }
 
 .containter > * {
