@@ -35,3 +35,7 @@ h2 {
     gap: 1.5rem;
     grid-template-columns: repeat(12, 1fr);
 }
+
+.containter > * {
+    grid-column: span 12;
+}
