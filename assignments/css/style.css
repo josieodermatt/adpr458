@@ -28,7 +28,7 @@ h2 {
     border:5px solid #9abcf8;
 }
 
-a:link{
+a:link, a:visited {
     color:#9abcf8;
     text-decoration: none;
 }
@@ -60,4 +60,10 @@ a:hover{
     .col-span-4 {
         grid-column: span 4;
     }
+}
+
+/*****Components****/
+.button {
+    color: white;
+    background-color: #9abcf8;
 }
