@@ -61,6 +61,19 @@ a:hover{
         grid-column: span 4;
     }
 }
+/*****Navigation using Flexbox****/
+nav {
+    background-color: #525252;
+    padding: 0 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
 
 /*****Components****/
 .button:link, .button:visited {
