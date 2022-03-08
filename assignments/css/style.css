@@ -28,9 +28,15 @@ h2 {
     border:5px solid #9abcf8;
 }
 
-a{
+a:link{
     color:#9abcf8;
+    text-decoration: none;
 }
+a:hover{
+    color:#4980df;
+    text-decoration: underline;
+}
+
 
 /******Layout******/
 .containter {
