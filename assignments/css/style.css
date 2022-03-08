@@ -63,7 +63,7 @@ a:hover{
 }
 
 /*****Components****/
-.button {
+.button:link, .button:visited{
     color: white;
     background-color: #9abcf8;
 }
