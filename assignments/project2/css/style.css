@@ -12,11 +12,12 @@ header{
     color: darkgray;
     padding: 1rem;
     font-family: Montserrat,sans-serif;
-    align-content: center;
+    
 
 }
 h1 {
     font-size: 1rem;
+    align-content: center;
 }
 h2 {
 
