@@ -16,6 +16,10 @@ header{
 img{
     display: flex;
     justify-content: center;
+    max-width: 100%;
+}
+.center{
+    text-align: center;
 }
 
  h1{
