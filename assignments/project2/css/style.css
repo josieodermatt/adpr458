@@ -53,11 +53,11 @@ img{
 }
 
 a:link, a:visited {
-    color:#9abcf8;
+    color:#008080;
     text-decoration: none;
 }
 a:hover{
-    color:#4980df;
+    color:#008080;
     text-decoration: underline;
 }
 
