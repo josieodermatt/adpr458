@@ -12,10 +12,10 @@ header{
     color: darkgray;
     padding: 1rem;
     font-family: Montserrat,sans-serif;
-    
-
+    }
+img{
+    display: flex;
 }
-
 
  h1{
         font-size: 1rem;
@@ -61,10 +61,6 @@ img{
     max-width: 100%;
 }
 
-.circle{
-    border-radius: 50%;
-    border:5px solid #9abcf8;
-}
 
 a:link, a:visited {
     color:#008080;
