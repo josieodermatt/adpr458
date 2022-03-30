@@ -14,8 +14,6 @@ header{
     font-family: Montserrat,sans-serif;
     }
 img{
-    display: flex;
-    justify-content: center;
     max-width: 100%;
 }
 .center{
