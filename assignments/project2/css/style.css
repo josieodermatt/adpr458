@@ -52,6 +52,9 @@ h6{
     font-family: sans-serif;
     color: #D0E0D8;
 }
+.col-span-6{
+    grid-column: span 6;
+}
 
 
 
