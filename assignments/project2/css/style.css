@@ -140,6 +140,17 @@ nav a:hover {
     margin: 0 .25rem .25rem 0;
     transition: background-color 0.5s eas;
 }
+.button:link {
+    color: rgb(0, 0, 0);
+    background-color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 1rem 1.75rem;
+    border-radius: .5rem;
+    box-shadow: 0 .125rem .5rem rgba(0, 0, 0, .15);
+    
+    margin: 0 .25rem .25rem 0;
+    transition: background-color 0.5s eas;
 .button:hover {
     background-color: #008080;
 }
