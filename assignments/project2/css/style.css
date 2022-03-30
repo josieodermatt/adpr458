@@ -51,9 +51,7 @@ h6{
     color: #D0E0D8;
 }
 
-.col-span-6{
-    grid-column: span 6;
-}
+
 
 
 
@@ -174,6 +172,9 @@ nav a:hover {
     }
     .col-span-4 {
         grid-column: span 4;
+    }
+    .col-span-6{
+        grid-column: span 6;
     }
 
     .work-section{
