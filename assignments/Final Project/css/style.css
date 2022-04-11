@@ -126,7 +126,9 @@ nav a:hover {
     margin: 0.5rem 0 1rem;
     padding: 2rem 0.5rem;
 }
-
+.img{
+    align-content: left;
+}
 
 
 
