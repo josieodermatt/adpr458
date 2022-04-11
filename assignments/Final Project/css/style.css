@@ -109,23 +109,7 @@ nav a:hover {
     background-color: #6e8fc7;
 }
 
-.card {
-    text-align: center;
-    margin: 1rem;
-    padding-bottom: 2rem;
-    box-shadow: 0 .125rem .5rem rgba(0, 0, 0, .15);
-}
 
-.card-title{
-    margin: 0.75 rem 0 0 0;
-    padding: 0rem 0.5rem;
-
-}
-
-.card-text{
-    margin: 0.5rem 0 1rem;
-    padding: 2rem 0.5rem;
-}
 
 
 
