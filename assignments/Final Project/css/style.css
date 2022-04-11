@@ -63,7 +63,7 @@ nav {
     background-color: #525252;
     padding: 0 1rem;
     display: flex;
-    justify-content: center;
+    justify-content: right;
     position: sticky;
     top: 0;
 }
