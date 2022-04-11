@@ -90,7 +90,7 @@ nav li{
     margin: 0 0.5rem;
 }
 nav a:link, nav a:visited {
-    color: white;
+    color:  #696969;
     text-decoration: none;
     font-size: 1.125rem;
     padding: 1rem;
