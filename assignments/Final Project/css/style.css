@@ -52,7 +52,7 @@ a:hover{
 
 /******Layout******/
 .containter {
-    background-color: white;
+    background-color: #faebd78f;
     display:grid;
     gap: 1.5rem;
     grid-template-columns: repeat(12, 1fr);
