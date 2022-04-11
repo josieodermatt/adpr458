@@ -15,11 +15,13 @@ header{
 h1 {
     font-size: 3rem;
     font-family: Menlo; 
+    color: #696969;
 }
 h2 {
 
     font-size: 2rem;
     text-align: center;
+    color: #696969;
 }
 
  h3{
@@ -28,6 +30,7 @@ h2 {
         padding: 5rem;
         text-decoration: none;
         font-family: 'Times New Roman', Times, serif; 
+        color: #696969;
     }
 
 img{
@@ -37,6 +40,7 @@ p{
     text-align: center;
     font-family: 'Times New Roman', Times, serif; 
     font-size: 1.5rem;
+    color: #696969;
 }
 
 
