@@ -60,7 +60,7 @@ a:hover{
 
 /*****Navigation using Flexbox****/
 nav {
-    background-color: #CD9575;
+    background-color: #CD9575r;
     padding: 0 1rem;
     display: flex;
     justify-content: right;
@@ -87,7 +87,7 @@ nav a:link, nav a:visited {
     transition: ease-in-out 250ms;
 }
 nav a:hover {
-    background-color: #9abcf8;
+    background-color: #CD9575;
     color: white;
 }
 
