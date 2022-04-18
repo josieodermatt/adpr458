@@ -79,6 +79,7 @@ nav {
     justify-content: right;
     position: sticky;
     top: 0;
+    color: black;
 }
 
 nav ul{
