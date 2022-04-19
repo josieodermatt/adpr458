@@ -37,7 +37,7 @@ h2 {
 
 img{
     max-width: 70%;
-    justify-content: center;
+    position:absolute
 }
 p{
     text-align: center;
