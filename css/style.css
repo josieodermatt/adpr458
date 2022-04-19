@@ -54,12 +54,9 @@ p{
 }
 
 
-a:link, a:visited {
-    color:#9abcf8;
-    text-decoration: none;
-}
+
 a:hover{
-    color:#4980df;
+    color: white;
     text-decoration: underline;
 }
 
